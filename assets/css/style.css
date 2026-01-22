@@ -1,0 +1,13 @@
+body { background: #f6f7fb; }
+
+.page-card {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.page-card-lg {
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.card { border-radius: 12px; }
